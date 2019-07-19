@@ -7,6 +7,8 @@
  ============================================================================
  */
 
+// This code to be revisited.
+
 #include <stdio.h>
 #include <stdbool.h>
 #define THRESHOLD 10

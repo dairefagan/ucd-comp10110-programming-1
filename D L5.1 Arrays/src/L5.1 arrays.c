@@ -7,6 +7,8 @@
  ============================================================================
  */
 
+// This code to be revisited.
+
 #include <stdio.h>
 
 /* We set a maximum size for the array */
